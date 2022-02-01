@@ -3,6 +3,7 @@
 This Project consist on dataset of super mario maker the dataset downloaded via [kaggle](https://www.kaggle.com/leomauro/smmnet). In this project, an ER diagram was created, then the cleaned data was edited according to the ER diagram, and then the data was loaded into the relevant tables with MySQL Workbench and Visual Studio Code. In addition, a basic GUI was created that can connect to the database, retrieve data and display this data using python's tkinter library.
 
 You can see the GUI below:
+
 ![image](https://user-images.githubusercontent.com/55553433/151961371-409c7241-5530-4666-856f-b1c7b8ad50cf.png) ![image](https://user-images.githubusercontent.com/55553433/151961383-661407d3-f3ed-42ed-a261-929c7be22baa.png)
 
 
@@ -30,6 +31,7 @@ We have two stored procedure and one view.
   3)	clear_rate.This view returns 3 columns: clears_num,attemps_num (from course_meta) and clear_Rate. (by calculating it from clears_num and attemps_num)
 
   Here you can see the view example(clear_rate):
+  
   ![image](https://user-images.githubusercontent.com/55553433/151961509-48aa9713-9923-4d38-8ab2-7fcc35969589.png)
 
 
