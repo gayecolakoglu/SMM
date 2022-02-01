@@ -1,1 +1,0 @@
-https://www.kaggle.com/leomauro/smmnet?select=course-meta.csv
